@@ -1,7 +1,7 @@
 import os
 import argparse
 
-# TEST change
+# TEST change again
 
 def main(database: str, url_list_file: str):
     print("we are going to work with " + database)
