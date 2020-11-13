@@ -3,9 +3,11 @@ import argparse
 
 # TEST change again
 
+
 def main(database: str, url_list_file: str):
     print("we are going to work with " + database)
     print("we are going to scan " + url_list_file)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
